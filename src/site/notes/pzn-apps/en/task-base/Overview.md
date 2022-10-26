@@ -4,12 +4,12 @@
 
 # Custom Task Manager
 
-	Plan your tasks, organize your teamwork and create invoices for the jobs without leaving Airtable.
+Plan your tasks, organize your teamwork and create invoices for the jobs without leaving Airtable.
 
-This Airtable base is utilizing Airtable's Interfaces and Automations and was designed basing on the successful usage experience in several projects and companies.
+>This Airtable base is utilizing Airtable's Interfaces and Automations and was designed basing on the successful usage experience in several projects and companies.
 
 In addition to the standard task-managing functions (like calendar, timeline, tasks, projects, task statuses and assignees) the Custom Task Manager included some extra functionality, such as:
-- **Email notifications
+- **Email notifications**
 - **Invoice creation**
 - **Time-tracking**
 
