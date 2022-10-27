@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/open-task-interface/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/open-task-interface/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 ##### via the [Airtable](airtable.com) main page 
