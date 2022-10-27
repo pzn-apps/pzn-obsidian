@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/user-s-manual/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/user-s-manual/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # User's Manual
