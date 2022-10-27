@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/planning/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/task-base/planning/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Plan/Calendar & Plan/Timeline
