@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/lead-and-booking-statuses/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+# Lead and Booking Statuses
+
 Any successful Lead is transformed into Booking when it's status is changed to **Booked**, thus moved to the Client's booking leads. Below are the statuses of a lead/booking:
 
 ### Lead
