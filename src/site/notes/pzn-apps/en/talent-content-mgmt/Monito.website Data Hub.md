@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/monito-website-data-hub/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/monito-website-data-hub/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 ## Monito.website Data Hub
