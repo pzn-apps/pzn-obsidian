@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/podcast-management-and-outreach-automation-system/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+# Podcast Management and Outreach Automation System
+
 The system provides functionality to store, organize and manage podcast base. Besides this it automates the process of sending outreach and reminder emails, tracking replies to emails and other marketing tasks.
 
 ## Interface
