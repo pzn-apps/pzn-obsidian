@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/finance-base/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/finance-base/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Finance base
