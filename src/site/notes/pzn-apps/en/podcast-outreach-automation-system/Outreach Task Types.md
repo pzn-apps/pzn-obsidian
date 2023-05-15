@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/outreach-task-types/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+# Outreach Task Types
 - Outreach Email
 - Follow-up Email
 - Email Response
