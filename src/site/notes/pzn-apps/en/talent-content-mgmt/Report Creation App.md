@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/report-creation-app/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/report-creation-app/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 Creates the following types of reports, based on Transaction and Royalty information from Finance base
