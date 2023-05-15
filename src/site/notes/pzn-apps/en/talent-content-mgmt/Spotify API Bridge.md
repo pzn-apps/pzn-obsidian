@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/spotify-api-bridge/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/spotify-api-bridge/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 ## Spotify API Bridge
