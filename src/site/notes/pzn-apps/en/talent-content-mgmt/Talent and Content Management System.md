@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/talent-and-content-management-system/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/talent-and-content-management-system/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Talent and Content Management System
@@ -27,6 +27,6 @@ Easily organizes the chaos of documents, media and transactions into an easily a
 Built on [Airtable](https://airtable.com/) platform
 
 -----
-[[pzn-apps/en/intro|Back to Pzn-App's Main Page]]
+[[pzn-apps/en/Sergey Poznyakov's projects|Back to Pzn-App's Main Page]]
 
 
