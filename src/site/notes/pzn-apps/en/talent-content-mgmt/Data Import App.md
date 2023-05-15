@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/data-import-app/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/data-import-app/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 Smart app for importing any spreadsheet data (Excel, csv and txt formats), converting, processing and saving to relevant records and datasets in Airtable. It can be easily customised for any new type of input. 
