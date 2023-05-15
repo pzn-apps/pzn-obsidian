@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/task-statuses/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+# Task Statuses
 - **New**: just created, requires attention
 - **Ready**: ready to be sent. 
 	- if Task type is Outreach Email, and it's date is on or before Today, and its status is Ready, then an email is created and send via Make.com
