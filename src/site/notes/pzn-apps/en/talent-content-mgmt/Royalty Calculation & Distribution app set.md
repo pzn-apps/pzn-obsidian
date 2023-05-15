@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"permalink":"/pzn-apps/en/talent-content-mgmt/royalty-calculation-and-distribution-app-set/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/pzn-apps/en/talent-content-mgmt/royalty-calculation-and-distribution-app-set/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 A module for complicated distribution of music streaming and publishing income among the relevant rightholders. 
