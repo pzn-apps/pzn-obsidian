@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/lead-and-booking-statuses/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/lead-and-booking-statuses/"}
 ---
 
 # Lead and Booking Statuses
