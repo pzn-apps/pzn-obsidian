@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/task-statuses/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/task-statuses/"}
 ---
 
 # Task Statuses
