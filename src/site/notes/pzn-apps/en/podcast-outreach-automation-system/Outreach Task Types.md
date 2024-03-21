@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/outreach-task-types/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pzn-apps/en/podcast-outreach-automation-system/outreach-task-types/"}
 ---
 
 # Outreach Task Types
