@@ -6,7 +6,6 @@
 # PZN Apps
 
 	Full-stack Web Development | Airtable Plugins, Extension and Solutions
-	contact us pzn.app@gmail.com
 
 -----
 ![Phi Apps - Frame 10.jpg|70](/img/user/Phi%20Apps%20-%20Frame%2010.jpg)
