@@ -3,8 +3,8 @@
 ---
 
 
-
-# 1. Overview
+# Data Sync Application - collect and store all the company's data in one place
+## 1. Overview
 
 SYNC module is designed to fulfil regular scheduled synchronization tasks. The main goal of the Sync module is retrieving various business data from a set of APIs and saving it to the company's Airtable base or to MongoDB storage, but it can as well run other data handling tasks with supported APIs.
 Below is chart depicting relevant Sync module connections and connected APIs.
@@ -13,17 +13,17 @@ Below is chart depicting relevant Sync module connections and connected APIs.
 ![Drafts - PaperPlan Sync App_ data flowchart.jpg](/img/user/Drafts%20-%20PaperPlan%20Sync%20App_%20data%20flowchart.jpg)
 <div style="page-break-after: always;"></div>
 
-# 2. Module Maintenance
+## 2. Module Maintenance
 The module is running in back-end continuously and doesn't require any maintenance unless an exception occurrs. 
-## Alerts
+### Alerts
 Two types of alerts are posted to **#airtable** Slack channel:
 - **Sync application offline**  - the application or server is not running. In this case you can try the following steps: [[Data Sync Application - collect and store all the company's data in one place#3. Restart the Application\|Data Sync Application - collect and store all the company's data in one place#3. Restart the Application]], or contact the developer.
 - **Report <report_name> failed** - the application is running but for some reason a specific report was not created during the last 24 hours. In this case you can try the following steps: [[Data Sync Application - collect and store all the company's data in one place#5. Repeat a failed report\|Data Sync Application - collect and store all the company's data in one place#5. Repeat a failed report]], or contact the developer.
-## Check if Sync module is OK and running
+### Check if Sync module is OK and running
 You can check the module's API availability by entering https://api.paperplan.co/api in your browser
 - ✔if browser displays message "Hello world!", then the Sync application is currently running on the server
 - ❌else, you'll have to restart the application: [[Data Sync Application - collect and store all the company's data in one place#3. Restart the Application\|Data Sync Application - collect and store all the company's data in one place#3. Restart the Application]]
-## Check SYNC base in Airtable
+### Check SYNC base in Airtable
 Check [SYNC→Overview table](https://airtable.com/appw0yy35MwAoocId/tblzbzlRQJhEhjznE/viwFxvQkjr0B85XC9?blocks=hide) ![Pasted image 20240108174353.png](/img/user/Pasted%20image%2020240108174353.png)
 - **Alive** - if 1, then application is running OK
 - **Timestamp** - updated every 30 minutes while application is running (GMT time)
@@ -31,7 +31,7 @@ Check [SYNC→Overview table](https://airtable.com/appw0yy35MwAoocId/tblzbzlRQJh
 Optionally, you can track the following Sync application activity in the SYNC base:
 - [SYNC→Logs](https://airtable.com/appw0yy35MwAoocId/tblfkQXEKZMj8r80t/viwBYynJ4KzR4f0rQ?blocks=hide) - sync application logs
 - [SYNC→Reports](https://airtable.com/appw0yy35MwAoocId/tblV7cmWTJJuNHyQZ/viwmJ3L7c5uUwj0vF?blocks=hide) - reports created by the Sync app, grouped by Report Type in reverse chronological order
-## Automations Schedule
+### Automations Schedule
 [SYNC→Automations→Schedule](https://airtable.com/appw0yy35MwAoocId/tblaBBCXn7XbdEikD/viwUis5R2mnUPinEw?blocks=hide) - here you can see all the scheduled automations, the description and running time
 ![Pasted image 20240108200401.png](/img/user/Pasted%20image%2020240108200401.png)
 - **Time** - time in 24h format
@@ -43,14 +43,14 @@ Any updates will take effect during the following 2 minutes, a corresponding rec
 
 <div style="page-break-after: always;"></div>
 
-# 3. Restart the Application
+## 3. Restart the Application
 
-## Step 1: Login to AWS console
+### Step 1: Login to AWS console
 
 [Login to AWS console](https://aws.amazon.com/marketplace/management/signin) using AWS root login/pass
-## Step 2: Locate the server instance and connect to it
+### Step 2: Locate the server instance and connect to it
 
-Locate and open the server instance as shown on the [video](https://www.loom.com/share/0d9f9d05117540ab8b8fc3dbe02eacb7?sid=a6e9a3f7-191f-4d64-9fe3-5fea008ae17c)
+Go to **AWS Console** → **EC2** → **Instances** → select the first instance → **Connect**
 
 - make sure the instance's status is Running, otherwise you can start or reboot the instance from the menu dropdown "Actions" on top right
 
