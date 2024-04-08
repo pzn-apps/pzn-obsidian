@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/automated-demand-forecasting-inventory-replenishment-and-out-of-stock-preventing-system/"}
 ---
 
+# Automated Demand Forecasting, Inventory Replenishment and Out-of-stock Preventing System
+
 Forecasting Module is analyzing the past datapoints and projects the future datapoints. Basing on this data, the inventory balance for the future periods is predicted, and in case if the predicted inventory balance below the products minimum, shipments and production are proposed in order to avoid product OOS.
 # 1. Main Interface: Products
 
