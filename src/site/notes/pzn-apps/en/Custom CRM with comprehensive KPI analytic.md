@@ -35,7 +35,7 @@ Lead intake was fragmented across several channels — web forms, manual entry, 
 
 ## Solution
 
-![Portfolio - Custom CRM Diagram.jpg](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/Portfolio_-_Custom_CRM_Diagram.jpg)
+![Portfolio_-_Custom_CRM_Diagram.jpg](/img/user/pzn-apps/img/Portfolio_-_Custom_CRM_Diagram.jpg)
 
 ### Overview
 
@@ -52,20 +52,20 @@ Lead intake was fragmented across several channels — web forms, manual entry, 
 
 1. **Lead Details View**
     
-    ![1.png](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/1.png)
+    ![1.png](/img/user/pzn-apps/img/1.png)
     
 2. **Performance Dashboard**
     
-    ![2.png](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/2.png)
+    ![2.png](/img/user/pzn-apps/img/2.png)
     
 3. **Company-Wide Insights**
     
-    ![3.png](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/3.png)
+    ![3.png](/img/user/pzn-apps/img/3.png)
     
 4. **Lead Intake Module**
     
-    ![4.png](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/ec239164-46ae-4490-a330-6d7680ff5694.png)
+    ![ec239164-46ae-4490-a330-6d7680ff5694.png](/img/user/pzn-apps/img/ec239164-46ae-4490-a330-6d7680ff5694.png)
     
 5. **Usability Enhancements**
     
-    ![5.png](/img/user/Private & Shared/[READY] Custom CRM with comprehensive KPI analytic 245a81c605488019aa0cdf934e6bf39f/5.png)
+    ![5.png](/img/user/pzn-apps/img/5.png)
