@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/private-and-shared/custom-crm-with-comprehensive-kpi-analytic/"}
+{"dg-publish":true,"permalink":"/private-and-shared/custom-crm-with-comprehensive-kpi-analytic/","dgHomeLink":true}
 ---
 
 [[pzn-apps\|pzn-apps]]
