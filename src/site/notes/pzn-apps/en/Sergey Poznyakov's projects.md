@@ -36,6 +36,6 @@
 ## [[pzn-apps/en/talent-content-mgmt/Talent and Content Management System\|Talent and Content Management System]]
 
 ----
-## [[Private & Shared/Custom CRM with comprehensive KPI analytic\|Custom CRM with comprehensive KPI analytic]]
+## [[pzn-apps/en/Custom CRM with comprehensive KPI analytic\|Custom CRM with comprehensive KPI analytic]]
 
 v2025-09
