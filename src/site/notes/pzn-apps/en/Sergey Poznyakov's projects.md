@@ -27,7 +27,7 @@
 
 
 ---
-![PZN Task Logo.png|70](/img/user/PZN%20Task%20Logo.png)
+![[PZN Task Logo.png\|70]]
 ## [[pzn-apps/en/task-base/0. Custom Task Manager Overview\|Custom Task Manager]]
 
 
@@ -35,6 +35,7 @@
 ![IMG_0517 1.png| 224](/img/user/pzn-apps/img/IMG_0517%201.png)
 ## [[pzn-apps/en/talent-content-mgmt/Talent and Content Management System\|Talent and Content Management System]]
 
+----
+## [[Private & Shared/Custom CRM with comprehensive KPI analytic\|Custom CRM with comprehensive KPI analytic]]
 
-
-v4.0
+v2025-09
